@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cascading Effect></title>
+        <style>
+            body {
+                background-image: url("Hibiscus_Flower-removebg-preview.png");
+                background-color: darksalmon;
+                background-attachment: fixed;
+                background-position: relative;
+                background-size: 250px 250px;
+            }
+        </style>
+    </head>
+    
